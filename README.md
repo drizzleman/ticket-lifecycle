@@ -42,7 +42,7 @@ Start creating tickets on the localhost/osTicket/ support center page.
 
 </p>
 <p>
-Here is an example of a new ticket be created about a hardware issue.
+Here is an example of a new ticket being created about a hardware issue.
 </p>
 <br />
 
