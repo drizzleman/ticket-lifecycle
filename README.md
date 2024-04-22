@@ -53,7 +53,8 @@ Here is an example of a new ticket being created about a hardware issue.
 <p>
 This is an example of ticket that is currently still open and is waiting to be resovled.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="637" alt="image" src="https://github.com/drizzleman/ticket-lifecycle/assets/166667455/fbb6ca8b-9da6-4303-b762-a3630e5e8f74">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is a ticket that was resloved and could be closed because the issue was fixed.
